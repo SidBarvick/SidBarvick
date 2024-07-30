@@ -1,16 +1,25 @@
-## Hi there 👋
+## Sidney Barvick Fº
 
-<!--
-**SidBarvick/SidBarvick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linkedin Badge Gmail Badge Blog Badge Youtube Badge       
 
-Here are some ideas to get you started:
+### Sobre mim
+💻  Desenvolvedor Web Full Stack
+👨‍🏫  Técnico em TI 
+📊  Pós Graduado em Desenvolvimento Front end
+⚡  Bacharel em Análise e Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiência Profissional
+💻  [Mai/2021 - Presente] Desenvolvedor Web Full Stack no Departamento de Tecnologia da Prefeitura de Pinhais
+👨‍🏫  [Abr/2012 - Mai/2021] Assistente Administrativo no Departamento de Tecnologia da Prefeitura de Pinhais
+👨‍🏫  [Mar/2009 - Abr/2012] Suporte Técnico no Departamento de Tecnologia da Prefeitura de Pinhais
+
+🛠️ ## Skills
+
+🔧 ### Tools and environments
+Git NPM
+
+💻 ### Front-End Development
+sass html css javascript
+
+💻 ### Back-End Development
+node express postgress
