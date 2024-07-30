@@ -1,6 +1,8 @@
 ## Sidney Barvick Fº
 
-Linkedin Badge Gmail Badge Blog Badge Youtube Badge       
+Linkedin Badge Gmail Badge Blog Badge Youtube Badge   
+
+[Google](https://www.google.com)
 
 ### Sobre mim
 💻  Desenvolvedor Web Full Stack
