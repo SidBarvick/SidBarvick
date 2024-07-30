@@ -13,13 +13,13 @@ Linkedin Badge Gmail Badge Blog Badge Youtube Badge
 👨‍🏫  [Abr/2012 - Mai/2021] Assistente Administrativo no Departamento de Tecnologia da Prefeitura de Pinhais
 👨‍🏫  [Mar/2009 - Abr/2012] Suporte Técnico no Departamento de Tecnologia da Prefeitura de Pinhais
 
-🛠️ ## Skills
+## 🛠️ Skills
 
-🔧 ### Tools and environments
+### 🔧 Tools and environments
 Git NPM
 
-💻 ### Front-End Development
+### 💻 Front-End Development
 sass html css javascript
 
-💻 ### Back-End Development
+### 💻 Back-End Development
 node express postgress
