@@ -2,7 +2,9 @@
 
 Linkedin Badge Gmail Badge Blog Badge Youtube Badge   
 
-[Google](https://www.google.com)
+[Google Search][Google]
+
+[Google]: https://www.google.com "Pesquisar no Google"
 
 ### Sobre mim
 💻  Desenvolvedor Web Full Stack
