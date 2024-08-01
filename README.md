@@ -4,8 +4,8 @@
 ### Sobre mim
 - 💻  Desenvolvedor Web Full Stack
 - 👨‍🏫  Técnico em TI 
-- 📊  Pós Graduado em Desenvolvimento Front end
 - ⚡  Bacharel em Análise e Desenvolvimento de Sistemas
+- 📊  Pós Graduado em Desenvolvimento Front end
 
 ## Experiência Profissional
 - 💻  [Mai/2021 - Presente] Desenvolvedor Web Full Stack no Departamento de Tecnologia da Prefeitura de Pinhais
