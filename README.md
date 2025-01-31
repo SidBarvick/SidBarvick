@@ -5,6 +5,9 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [sidney.barvick@gmail.com](sidney.barvick@gmail.com)  
 
+<a href="sidney.barvick@gmail.com">
+  <img src="[https://img.shields.io/badge/Exemplo-Link-blue](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="E-mail para contato">
+</a>
 
 ### Sobre mim
 - 💻  Desenvolvedor Web Full Stack
