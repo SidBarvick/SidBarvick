@@ -1,22 +1,20 @@
 ## Sidney Barvick Fº
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
-[https://www.linkedin.com/in/sidney-barvick-de-faria-fo-170729280/](https://www.linkedin.com/in/sidney-barvick-de-faria-fo-170729280/)
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-[sidney.barvick@gmail.com](sidney.barvick@gmail.com)  
-
+<a href="https://www.linkedin.com/in/sidney-barvick-de-faria-fo-170729280">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil LinkedIn">
+</a>
 <a href="sidney.barvick@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail para contato">
 </a>
 
 ### Sobre mim
-- 💻  Desenvolvedor Web Full Stack
+- 💻  Desenvolvedor Full Stack
 - 👨‍🏫  Técnico em TI 
 - ⚡  Bacharel em Análise e Desenvolvimento de Sistemas
 - 📊  Pós Graduado em Desenvolvimento Front end
 
 ## Experiência Profissional
-- 💻  [Mai/2021 - Presente] Desenvolvedor Web Full Stack no Departamento de Tecnologia da Prefeitura de Pinhais
+- 💻  [Mai/2021 - Presente] Desenvolvedor Full Stack no Departamento de Tecnologia da Prefeitura de Pinhais
 - 👨‍🏫  [Abr/2012 - Mai/2021] Assistente Administrativo no Departamento de Tecnologia da Prefeitura de Pinhais
 - 👨‍🏫  [Mar/2009 - Abr/2012] Suporte Técnico no Departamento de Tecnologia da Prefeitura de Pinhais
 
