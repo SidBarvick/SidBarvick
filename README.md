@@ -1,5 +1,5 @@
 ## Sidney Barvick Fº
-![LinkedIn](www.linkedin.com/in/sidney-barvick-de-faria-fo-170729280) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
+![LinkedIn]([www.linkedin.com/in/sidney-barvick-de-faria-fo-170729280](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
 
 ### Sobre mim
 - 💻  Desenvolvedor Web Full Stack
