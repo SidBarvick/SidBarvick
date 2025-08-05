@@ -3,6 +3,7 @@
 A produtividade nunca é um acidente. É sempre o resultado de um compromisso com a excelência, planejamento inteligente e esforço concentrado.
 Autor: Paul J. Meyer, escritor e fundador da Success Motivation Institute
 
+### Contato
 <a href="https://www.linkedin.com/in/sidney-barvick-de-faria-fo-170729280">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil LinkedIn">
 </a>
